@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ycdBhE3KXo=",
+  "success": true,
+  "projectFilePath": "D:\\OpenWRT-Arp-Blocker\\VanRestrictionBeGone\\VanRestrictionBeGone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lewlew\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
+    "C:\\Users\\lewlew\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\lewlew\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\lewlew\\.nuget\\packages\\ssh.net\\2025.0.0\\ssh.net.2025.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
