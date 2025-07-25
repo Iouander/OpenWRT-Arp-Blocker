@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VanRestrictionBeGone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c37acf844a7f8832760d788776e49c60b6fc4c8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab7c0cd1962b45bf28dbc6889ceff1c311489cce")]
 [assembly: System.Reflection.AssemblyProductAttribute("VanRestrictionBeGone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VanRestrictionBeGone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

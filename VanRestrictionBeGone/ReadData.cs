@@ -4,7 +4,10 @@
 
     public ReadData()
     {
-        foreach (var line in File.ReadLines("settings.txt"))
+        string exePath = AppDomain.CurrentDomain.BaseDirectory;
+        string configPath = Path.Combine(exePath, "config.ini");
+
+        foreach (var line in File.ReadLines(configPath))
         {
             if (string.IsNullOrEmpty(line) || line.TrimStart().StartsWith("#")) continue;
 
